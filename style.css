@@ -1,0 +1,40 @@
+body{
+    background-color: aliceblue;
+}
+
+h1{
+    text-align: center;
+    font-size: 48px;
+}
+
+ul, ol{
+    margin: 0 0 0 5%;
+    font-size: xx-large;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 70%;
+}
+
+.home{
+    font-size: xx-large;
+    color: red;
+}
+
+h2{
+    font-size: 32px;
+}
+
+.center{
+    text-align: center;
+}
+
+.p1{
+    font-size: 24px;
+}
